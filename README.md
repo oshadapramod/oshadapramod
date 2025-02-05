@@ -12,7 +12,8 @@
 - 💡 Passionate about Blockchain, Web Development, and Industrial Safety
 - 🔭 Currently developing **Smart Hospital System** & **Blockchain-Based Voting System**
 - 🌱 Exploring **Zero-Knowledge Proofs (ZKP) for Privacy**
-- ⚡ Tech Enthusiast who loves to solve real-world problems
+- ⚡ Tech Enthusiast who loves to explore new technologies and share knowledge
+- ✍️ I write blog articles and create tech content on YouTube & TikTok
 
 ---
 
@@ -23,6 +24,21 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+---
+
+## 🚧 Ongoing Projects
+
+- **Blockchain-Based Voting System** (React, Node.js, Firebase, ZKP)
+- **Smart Hospital System** (React, Node.js, Firebase)
+- **More to come...**
+
+## ✅ Completed Projects
+
+- **University ExamHall Booking System** (.NET Core Web API + React.js + SQL Server)
+- **Student Management System** (HTML, CSS, JavaScript + local storage)
+- **Responsive Portfolio Website** (HTML, CSS, JavaScript)
+- **Chess Game** (HTML, CSS, JavaScript)
 
 ---
 
