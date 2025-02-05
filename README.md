@@ -1,6 +1,6 @@
 ### Hi there! I'm a <Your Name> 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;Blockchain+Enthusiast+%7C+Web+Developer;Smart+Hospital+%7C+Voting+System+Developer;Passionate+about+Technology+%26+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Oshada+Pramod;Blockchain+Enthusiast+%7C+Web+Developer+%7C+Graphic+Designer;Passionate+about+Technology+%26+Innovation)
 
 ---
 
@@ -10,10 +10,8 @@
 
 - 🎓 Computer Engineering Undergraduate at University of Jaffna
 - 💡 Passionate about Blockchain, Web Development, and Graphic Design
-- 🔭 Currently developing **Web Application for Computer Engineering Dept. - MA**, **Smart Railway Payment System using RFID Cards** & **Blockchain-Based Voting System**
 - 🌱 Exploring **Zero-Knowledge Proofs (ZKP) for Privacy**
 - ⚡ Tech Enthusiast who loves to explore new technologies and share knowledge
-- ✍️ I write blog articles and create tech content on YouTube & TikTok
 
 ---
 
@@ -29,16 +27,15 @@
 
 ## 🚧 Ongoing Projects
 
-- **Blockchain-Based Voting System** (React, Node.js, Firebase, ZKP)
-- **Smart Hospital System** (React, Node.js, Firebase)
+- **Blockchain-Based Voting System** (Solidity, Ethereum, Node.js, React.js, Web3.js, ZKP, IPFS )
+- **Web Application for Computer Engineering Dept. - MA** (React, Node.js, MySQL)
+- **Smart Railway Payment System using RFID Cards** (C++, React, Node.js, Firebase, TailwindCSS)
 - **More to come...**
 
 ## ✅ Completed Projects
 
-- **University ExamHall Booking System** (.NET Core Web API + React.js + SQL Server)
-- **Student Management System** (HTML, CSS, JavaScript + local storage)
+- **Student Feedback Management System** (HTML, CSS, JavaScript + local storage)
 - **Responsive Portfolio Website** (HTML, CSS, JavaScript)
-- **Chess Game** (HTML, CSS, JavaScript)
 
 ---
 
