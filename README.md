@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Undergraduate at University of Jaffna
-- 💡 Passionate about Blockchain, Web Development, and Industrial Safety
-- 🔭 Currently developing **Smart Hospital System** & **Blockchain-Based Voting System**
+- 💡 Passionate about Blockchain, Web Development, and Graphic Design
+- 🔭 Currently developing **Web Application for Computer Engineering Dept. - MA**, **Smart Railway Payment System using RFID Cards** & **Blockchain-Based Voting System**
 - 🌱 Exploring **Zero-Knowledge Proofs (ZKP) for Privacy**
 - ⚡ Tech Enthusiast who loves to explore new technologies and share knowledge
 - ✍️ I write blog articles and create tech content on YouTube & TikTok
