@@ -1,6 +1,6 @@
-### Hi there! I'm a <Your Name> 👋
+### Hi there! I'm Oshada Pramod 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Oshada+Pramod;Blockchain+Enthusiast+%7C+Web+Developer;Passionate+about+Technology+%26+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=800&lines=Blockchain+Enthusiast+%7C+Web+Developer;Passionate+about+Technology+%26+Innovation)
 
 ---
 
