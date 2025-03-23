@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oshadapramod&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadapramod&theme=tokyonight" height="180px" />
 </p>
 
 ---
@@ -56,6 +56,6 @@
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oshadapramod&theme=react-dark)
 
 🌟 _Thanks for visiting my profile!_
