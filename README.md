@@ -2,11 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=800&lines=Blockchain+Enthusiast+%7C+Web+Developer;Passionate+about+Technology+%26+Innovation)
 
+
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
 ## 🚀 About Me
+   <img align="right" justify-content="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170" />
 
 - 🎓 Computer Engineering Undergraduate at University of Jaffna
 - 💡 Passionate about Blockchain, Web Development, and Graphic Design
