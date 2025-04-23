@@ -27,16 +27,36 @@
 
 ## 🚧 Ongoing Projects
 
-- **Blockchain-Based Voting System** (Solidity, Ethereum, Node.js, React.js, Web3.js, ZKP, IPFS )
-- **Web Application for Computer Engineering Dept. - MA** (React, Node.js, MySQL)
-- **Smart Railway Payment System using RFID Cards** (C++, React, Node.js, Firebase, TailwindCSS)
+- **Blockchain-Based Voting System**  
+  *(Solidity, Ethereum, Node.js, React.js, Web3.js, ZKP, IPFS)*  
+  A decentralized voting platform with zero-knowledge proof verification.
+
+- **Voice Runner**  
+  *(Unity, C#, Android, Voice Recognition)*  
+  A voice-controlled endless runner game for Android where players use voice commands to control gameplay.
 - **More to come...**
 
 ## ✅ Completed Projects
 
-- **Student Feedback Management System** (HTML, CSS, JavaScript + local storage)
-- **Responsive Portfolio Website** (HTML, CSS, JavaScript)
+- **Smart Railway Payment System using RFID Cards**  
+  *(C, ESP-IDF, RFID, React, Node.js, Firebase, TailwindCSS)*  
+  A contactless payment system for railways using RFID cards and real-time transaction processing.  
 
+- **DeptWise - Management Assistant Web App (Computer Eng. Dept.)**  
+  *(React, Node.js, MySQL, TailwindCSS)*  
+  A departmental management tool for automating tasks, records, and notifications.  
+
+- **CPU Scheduling Simulator**  
+  *(Python, Tkinter, Matplotlib, NumPy)*  
+  A GUI-based simulator visualizing FCFS, SJF, Priority, and Round Robin scheduling algorithms.
+
+- **SpiritX - Cricket Fantasy AI Assistant**  
+  *(React, Node.js, MySQL, Gemini AI, WebSockets)*  
+  An intelligent chatbot for cricket fantasy leagues with player stats, team recommendations, and natural language processing.
+
+- **Image Captioning System**  
+  *(Python, TensorFlow/Keras, InceptionV3, LSTM, NLTK)*  
+  A deep learning model that generates human-like captions for images using CNN-LSTM architecture. Evaluated with BLEU/ROUGE metrics.
 ---
 
 ## 📊 GitHub Stats
