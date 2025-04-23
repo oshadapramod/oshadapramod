@@ -27,7 +27,7 @@
 
 ## 🚧 Ongoing Projects
 
-- **Blockchain-Based Voting System**  
+- **Blockchain-Based Electronic Voting System**  
   *(Solidity, Ethereum, Node.js, React.js, Web3.js, ZKP, IPFS)*  
   A decentralized voting platform with zero-knowledge proof verification.
 
