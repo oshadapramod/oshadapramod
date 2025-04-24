@@ -38,23 +38,23 @@
 
 ## ✅ Completed Projects
 
-- **Smart Railway Payment System using RFID Cards**  
+- **[Smart Railway Payment System using RFID Cards](https://github.com/oshadapramod/SmartRailwayPayment.git)**  
   *(C, ESP-IDF, RFID, React, Node.js, Firebase, TailwindCSS)*  
   A contactless payment system for railways using RFID cards and real-time transaction processing.  
 
-- **DeptWise - Management Assistant Web App (Computer Eng. Dept.)**  
+- **[DeptWise - Management Assistant Web App (Computer Eng. Dept.)](https://github.com/PasinduChandrasiri/MA-COM.git)**  
   *(React, Node.js, MySQL, TailwindCSS)*  
   A departmental management tool for automating tasks, records, and notifications.  
 
-- **CPU Scheduling Simulator**  
+- **[CPU Scheduling Simulator](https://github.com/oshadapramod/SchedulingAlgo.git)**  
   *(Python, Tkinter, Matplotlib, NumPy)*  
   A GUI-based simulator visualizing FCFS, SJF, Priority, and Round Robin scheduling algorithms.
 
-- **SpiritX - Cricket Fantasy AI Assistant**  
+- **[SpiritX - Cricket Fantasy AI Assistant](https://github.com/oshadapramod/SpiritX_CrypticHackers_02.git)**  
   *(React, Node.js, MySQL, Gemini AI, WebSockets)*  
   An intelligent chatbot for cricket fantasy leagues with player stats, team recommendations, and natural language processing.
 
-- **Image Captioning System**  
+- **[Image Captioning System](https://github.com/mihirishanika/DeepLerningProject.git)**  
   *(Python, TensorFlow/Keras, InceptionV3, LSTM, NLTK)*  
   A deep learning model that generates human-like captions for images using CNN-LSTM architecture. Evaluated with BLEU/ROUGE metrics.
 ---
