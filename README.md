@@ -124,6 +124,11 @@
 
 ---
 
+## 🤝Support me
+<p><a href="https://www.buymeacoffee.com/oshadapramod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="oshadapramod" /></a></p><br><br>
+
+---
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oshadapramod&theme=react-dark)
 
 🌟 _Thanks for visiting my profile!_
