@@ -105,6 +105,10 @@
 - **[Image Captioning System](https://github.com/mihirishanika/DeepLerningProject.git)**  
   *(Python, TensorFlow/Keras, InceptionV3, LSTM, NLTK)*  
   A deep learning model that generates human-like captions for images using CNN-LSTM architecture. Evaluated with BLEU/ROUGE metrics.
+  
+- **[My Portfolio Website](https://github.com/mihirishanika/DeepLerningProject.git)**  
+  *(React, Emailjs, Netlify)*  
+  A webpage for showcase my skills and projects.
 ---
 
 ## 📊 GitHub Stats
