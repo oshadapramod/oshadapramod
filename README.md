@@ -135,4 +135,4 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oshadapramod&theme=react-dark)
 
-🌟 _Thanks for visiting my profile!_
+🌟 _Thanks for visiting my profile and don't forget to follow me!_
